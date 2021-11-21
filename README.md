@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alessandro
 #### I am student of language of programmation 
-![I am student of language of programmation ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am student of language of programmation ]
 
 I currently study progamation logic and i want to become a great developer, and also love music :)
 
