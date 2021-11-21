@@ -9,7 +9,7 @@ Skills: JAVA SCRIPT
 - 🌱 I’m currently learning JavaScript and English 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlessandroF-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alessandrof.dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIX24Yjv1e00km17OB8U63A)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlessandroF-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alessandrof.dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://https://www.youtube.com/channel/UCIX24Yjv1e00km17OB8U63A/videos)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroF-dev)](https://github.com/anuraghazra/github-readme-stats)
 
