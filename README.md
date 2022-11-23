@@ -3,7 +3,7 @@
 
 I currently study progamation logic and i want to become a great developer, and also love music :)
 
-Skills: JAVA SCRIPT 
+Skills: JAVA 
 
 - 🔭 I’m currently working on Sales 
 - 🌱 I’m currently learning Java and English 
