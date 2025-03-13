@@ -1,15 +1,44 @@
 ### Hi there 👋, my name is Alessandro
-#### I am developer
 
-I currently study programation and i want to become a great developer, and also love music :)
+#### I'm a Developer passionate about technology, problem-solving, and music
 
-Skills: JAVA, Spring Boot, SQL, ETL. 
+I’m currently learning programming with the goal of becoming an exceptional developer. My journey has led me to discover my passion for Java, Spring Boot, and backend development. In addition to coding, I’m a music enthusiast, always inspired by melodies and rhythms, which fuel my creativity in development. 🎶
 
-- 🔭 I’m currently working junior developer java
-- 🌱 I’m currently studing Java and English 
+**Skills & Technologies:**  
+- **Languages & Frameworks**: Java, Spring Boot, SQL, JavaScript  
+- **Databases**: PostgreSQL, MySQL, Oracle  
+- **ETL Tools**: Talend  
+- **Version Control**: Git, GitHub  
+- **Cloud & Infrastructure**: AWS S3  
+- **Other**: RESTful APIs, Microservices, Docker  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlessandroF-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alessandrof.dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://https://www.youtube.com/channel/UCIX24Yjv1e00km17OB8U63A/videos)  
+### 🚀 Current Focus & Goals:
+- 🔭 Currently working as a **Junior Java Developer** and contributing to real-world projects.
+- 🌱 Actively studying **Java**, **Spring Boot**, and improving my **English** skills.
+- 👨‍💻 Working on enhancing my skills in **API development**, **cloud computing**, and **database management**.
+- 💡 Focused on building scalable and maintainable software solutions.
+
+---
+
+### 🔍 What I'm Looking To Learn:
+- Exploring **cloud architectures** and **serverless technologies**.
+- Diving deeper into **DevOps practices** and containerization using **Docker**.
+- Improving proficiency in **frontend technologies** like React and Angular.
+- Learning more about **Agile methodologies** and how they improve software development processes.
+- Gaining hands-on experience with **NoSQL databases**, specifically **MongoDB**.
+- Exploring **message-driven architectures** with **Kafka** for distributed systems.
+
+### 📫 Connect with Me:
+
+- [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/AlessandroF-dev)  
+- [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/alessandrof.dev)  
+- [![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/UCIX24Yjv1e00km17OB8U63A/videos)  
+
+---
+
+### 📊 GitHub Stats & Insights:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroF-dev)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,4 +46,4 @@ Skills: JAVA, Spring Boot, SQL, ETL.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroF-dev)  
 
-![Profile views](https://gpvc.arturio.dev/AlessandroF-dev)  
+![Profile views](https://gpvc.arturio.dev/AlessandroF-dev)
