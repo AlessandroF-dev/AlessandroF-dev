@@ -29,13 +29,7 @@ I’m currently learning programming with the goal of becoming an exceptional de
 - Learning more about **Agile methodologies** and how they improve software development processes.
 - Gaining hands-on experience with **NoSQL databases**, specifically **MongoDB**.
 - Exploring **message-driven architectures** with **Kafka** for distributed systems.
-
-### 📫 Connect with Me:
-
-- [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/AlessandroF-dev)  
-- [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/alessandrof.dev)  
-- [![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/UCIX24Yjv1e00km17OB8U63A/videos)  
-
+- 
 ---
 
 ### 📊 GitHub Stats & Insights:
