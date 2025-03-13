@@ -5,7 +5,7 @@
 I’m currently learning programming with the goal of becoming an exceptional developer. My journey has led me to discover my passion for Java, Spring Boot, and backend development. In addition to coding, I’m a music enthusiast, always inspired by melodies and rhythms, which fuel my creativity in development. 🎶
 
 **Skills & Technologies:**  
-- **Languages & Frameworks**: Java, Spring Boot, SQL, JavaScript  
+- **Languages & Frameworks**: Java, Spring Boot, SQL, JavaScript, JSF
 - **Databases**: PostgreSQL, MySQL, Oracle  
 - **ETL Tools**: Talend  
 - **Version Control**: Git, GitHub  
