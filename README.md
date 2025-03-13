@@ -34,7 +34,7 @@ I’m currently learning programming with the goal of becoming an exceptional de
 
 ### 📊 GitHub Stats & Insights:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroF-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroF-dev)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroF-dev&show_icons=true&count_private=true)  
 
